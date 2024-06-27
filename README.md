@@ -1,2 +1,3 @@
 # rdoiron3.github.io
-Repository for my Data analyst portfolio 
+### Repository for Ryan Doiron's Data analyst portfolio 
+
